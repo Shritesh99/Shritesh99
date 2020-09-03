@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=Shritesh99.Shritesh99)
 
- - 😄  I'm Shritesh, a Junior Undergrad Student in Computer Engg. at NIT Raipur. 
+ - 😄  I'm Shritesh, a Junior Undergrad Student in Computer Science and Engineering. at NIT Raipur. 
  - :thought_balloon:  I'm really into software and web development, with the increasing interest in compilers and parsers. 
  - 🔭  I’m currently into researching in Hyperledger Fabric blockchain framework.
 
