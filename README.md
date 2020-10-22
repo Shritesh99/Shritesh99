@@ -13,11 +13,11 @@
 
 ### Check out some of my open-source work :tada::
 
-<a href="https://github.com/Shritesh99/Arduino-Basics">
+<a href="https://github.com/Shritesh99/HideKeyboardWhenTappedAround">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shritesh99&repo=HideKeyboardWhenTappedAround"/>
 </a>
 
-<a href="https://github.com/Shritesh99/Arduino-Basics">
+<a href="https://github.com/Shritesh99/100DaysofMLCodeChallenge">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shritesh99&repo=100DaysofMLCodeChallenge" />
 </a>
 
