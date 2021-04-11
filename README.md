@@ -5,7 +5,6 @@
 -    :smiley: I'm Shritesh, an Undergrad Student :man_student: in Computer Science at NIT Raipur, India 🇮🇳.
 -    :man_technologist: I'm a passionate developer :computer::calling:, with growing interest in Blockchain Technologies and Parser Technologies.
 -    :thought_balloon: Ask me about anything, I am happy to help :man_teacher:.
--    :telescope: I'm currently researching in Hyperledger Sawtooth blockchain DLT to create a secure [Evidence Management System](https://github.com/Shritesh99/Evidence-Management-System).
 -    :two_men_holding_hands: Let's connect on [Chess.com](https://www.chess.com/member/rxshri99):chess_pawn: to play some Chess.
 
 ![Shritesh's github stats](https://github-readme-stats.vercel.app/api?username=shritesh99&show_icons=true&hide_border=true)
