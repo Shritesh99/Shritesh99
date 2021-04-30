@@ -33,4 +33,4 @@
 
 <img align="left" src="https://img.icons8.com/fluent/30/000000/apple-mail.png"/> shritesh.sj@gmail.com
 
-<img align="left" height="" src="https://img.icons8.com/fluent/30/000000/new-resume-template.png"/> **Get my [Résumé](https://github.com/Shritesh99/Shritesh99/blob/master/Resume/Resume.pdf)**
+<img align="left" height="" src="https://img.icons8.com/fluent/30/000000/new-resume-template.png"/> **Get my [Résumé](https://github.com/Shritesh99/Shritesh99/raw/master/Resume/Shritesh's%20Resume.pdf)**
