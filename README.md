@@ -2,8 +2,8 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Shritesh99.Shritesh99)
 
--    :man_technologist: I am working as a Full Stack Developer at Samsung R&D Institute - Banglore in Networks 📶 team.
--    :smiley: I'm Shritesh, recently graduated 🎓 from Computer Science at NIT Raipur, India 🇮🇳.
+-    :man_technologist:  I'm Shritesh, working as a Full Stack Developer at Samsung R&D Institute - Banglore in Networks 📶 team.
+-    :smiley: I have recently graduated 🎓 from Computer Science at NIT Raipur, India 🇮🇳.
 -    🖥 I'm a passionate developer :computer::calling:, with growing interest in Blockchain Technologies and Parser Technologies.
 -    :thought_balloon: Ask me about anything, I am happy to help :man_teacher:.
 -    :two_men_holding_hands: Let's connect on [Chess.com](https://www.chess.com/member/rxshri99):chess_pawn: to play some Chess.
