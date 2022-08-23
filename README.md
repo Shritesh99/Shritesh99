@@ -53,13 +53,11 @@
 
 ### Fun Fact 🥳:
 
-<p style="width: 500px">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
     <img src="https://quotes-github-readme.vercel.app/api?&theme=dark" alt="Readme Quotes"/>
 </a>
-</p>
 
 <h3 align="left">Languages and Tools 🛠:</h3>
 
