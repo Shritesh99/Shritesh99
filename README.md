@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shritesh99&label=Visitors&color=0e75b6&style=flat-square" alt="shritesh99" /> </p>
 
--    🎓 I am currently Postgrad Student at Trintiy College, Dublin, Ireland 🇮🇪. I am doing my Masters in Computer Science - Future Networked Systems.
+-    🎓 I am a postgrad student at Trintiy College, Dublin, Ireland 🇮🇪. I am doing my Master's in Computer Science - Future Networked Systems.
 -    :man_technologist: I was working as a Full Stack Developer at Samsung R&D Institute - Banglore in Networks 📶 team.
 -    :smiley: I have completed my bachelor's in Computer Science 🎓 from NIT Raipur, India 🇮🇳.
 -    🖥 I'm a passionate developer :computer::calling:, with growing interest in Blockchain Technologies and Parser Technologies.
@@ -43,7 +43,9 @@
 
 <img align="left" src="https://img.icons8.com/fluent/30/000000/apple-mail.png"/> shritesh.sj@gmail.com
 
-<img align="left" height="" src="https://img.icons8.com/fluent/30/000000/new-resume-template.png"/> **Get my [Résumé](https://github.com/Shritesh99/Shritesh99/raw/master/Resume/main.pdf)**
+<img align="left" src="https://img.icons8.com/fluent/30/000000/new-resume-template.png"/> **Get my [Résumé](https://github.com/Shritesh99/Shritesh99/raw/master/Resume/main.pdf)**
+
+<img align="left" src="https://images.ctfassets.net/eh05n0xjhplz/6Wls4SGGBULMgJOIeIDpqd/c5ec53671e64a01d42213fb5d1a5fb13/calendly_brand_mark_color.png" height="25" width="25"/> **If you like to connect over a call, here is my [Calendly link](https://calendly.com/rxshri99/networking)**
 
 ### Guitar:guitar: & Coding:man_technologist:
 
