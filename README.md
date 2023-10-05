@@ -6,7 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shritesh99&label=Visitors&color=0e75b6&style=flat-square" alt="shritesh99" /> </p>
 
--    🎓 I am a postgrad student at Trintiy College, Dublin, Ireland 🇮🇪. I am doing my Master's in Computer Science - Future Networked Systems.
+-    :man_technologist: I am currently working at THG as a Software Engineer in Manchester, UK 🇬🇧.
+-    🎓 I have completed my Master's in Computer Science - Future Networked Systems from Trinity College, Dublin, Ireland 🇮🇪.
 -    :man_technologist: I was working as a Full Stack Developer at Samsung R&D Institute - Banglore in Networks 📶 team.
 -    :smiley: I have completed my bachelor's in Computer Science 🎓 from NIT Raipur, India 🇮🇳.
 -    🖥 I'm a passionate developer :computer::calling:, with growing interest in Blockchain Technologies and Parser Technologies.
