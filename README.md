@@ -8,7 +8,7 @@
 
 -    :man_technologist: I am currently working at THG as a Software Engineer in Manchester, UK 🇬🇧.
 -    🎓 I have completed my Master's in Computer Science - Future Networked Systems from Trinity College, Dublin, Ireland 🇮🇪.
--    :man_technologist: I was working as a Full Stack Developer at Samsung R&D Institute - Banglore in Networks 📶 team.
+-    :man_technologist: I have worked as a Full Stack Developer at Samsung R&D Institute - Banglore in Networks 📶 team.
 -    :smiley: I have completed my bachelor's in Computer Science 🎓 from NIT Raipur, India 🇮🇳.
 -    🖥 I'm a passionate developer :computer::calling:, with growing interest in Blockchain Technologies and Parser Technologies.
 -    :thought_balloon: Ask me about anything, I am happy to help :man_teacher:.
@@ -24,8 +24,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shritesh99&repo=100DaysofMLCodeChallenge" />
 </a>
 
-<a href="https://github.com/Shritesh99/nations">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shritesh99&repo=nations"/>
+<a href="https://github.com/Shritesh99/strawberry-django-social-auth">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shritesh99&repo=strawberry-django-social-auth"/>
 </a>
 
 <a href="https://github.com/Shritesh99/Arduino-Basics">
