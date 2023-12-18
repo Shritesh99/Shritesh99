@@ -130,5 +130,6 @@
 			"args": ["--synctex", "--keep-logs", "%DOC%.tex"],
 			"env": {}
 		}
-	]
+	],
+	"svg.preview.background": "custom"
 }
