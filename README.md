@@ -44,7 +44,7 @@
 
 <img align="left" src="https://img.icons8.com/fluent/30/000000/apple-mail.png"/> shritesh.sj@gmail.com
 
-<img align="left" src="https://img.icons8.com/fluent/30/000000/new-resume-template.png"/> **Get my [Résumé](https://github.com/Shritesh99/Shritesh99/raw/master/Resume/main.pdf)**
+<img align="left" src="https://img.icons8.com/fluent/30/000000/new-resume-template.png"/> **Get my [Résumé](https://github.com/Shritesh99/Shritesh99/blob/master/Resume/resume.pdf)**
 
 <img align="left" src="https://images.ctfassets.net/eh05n0xjhplz/6Wls4SGGBULMgJOIeIDpqd/c5ec53671e64a01d42213fb5d1a5fb13/calendly_brand_mark_color.png" height="25" width="25"/> **If you like to connect over a call, here is my [Calendly link](https://calendly.com/rxshri99/networking)**
 
