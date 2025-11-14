@@ -16,20 +16,20 @@
 
 ### Check out some of my open-source work :tada::
 
-<a href="https://github.com/Shritesh99/HideKeyboardWhenTappedAround">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shritesh99&repo=HideKeyboardWhenTappedAround"/>
+<a href="https://github.com/Shritesh99/pallet-farcaster_frame">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shritesh99&repo=pallet-farcaster_frame" />
 </a>
 
-<a href="https://github.com/Shritesh99/100DaysofMLCodeChallenge">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shritesh99&repo=100DaysofMLCodeChallenge" />
+<a href="https://github.com/Shritesh99/HideKeyboardWhenTappedAround">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shritesh99&repo=HideKeyboardWhenTappedAround"/>
 </a>
 
 <a href="https://github.com/Shritesh99/strawberry-django-social-auth">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shritesh99&repo=strawberry-django-social-auth"/>
 </a>
 
-<a href="https://github.com/Shritesh99/Arduino-Basics">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shritesh99&repo=Arduino-Basics"/>
+<a href="https://github.com/Shritesh99/ppsc-build">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shritesh99&repo=ppsc-build"/>
 </a>
 
 <h3 align="left">Connect with me 📬:</h3>
