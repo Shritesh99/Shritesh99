@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shritesh99&label=Visitors&color=0e75b6&style=flat-square" alt="shritesh99" /> </p>
 
--    :man_technologist: I am currently working at Booking.com as a Software Engineer in London, UK 🇬🇧.
+-    :airplane: I am currently working at Booking.com as a Software Engineer in London, UK 🇬🇧.
 -    :man_technologist: I have worked with THG as a Software Engineer in Manchester, UK 🇬🇧.
 -    🎓 I have completed my Master's in Computer Science - Future Networked Systems from Trinity College, Dublin, Ireland 🇮🇪.
 -    :man_technologist: I have worked as a Full Stack Developer at Samsung R&D Institute - Banglore in Networks 📶 team.
