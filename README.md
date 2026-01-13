@@ -6,7 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shritesh99&label=Visitors&color=0e75b6&style=flat-square" alt="shritesh99" /> </p>
 
--    :man_technologist: I am currently working at THG as a Software Engineer in Manchester, UK 🇬🇧.
+-    :man_technologist: I am currently working at Booking.com as a Software Engineer in London, UK 🇬🇧.
+-    :man_technologist: I have worked with THG as a Software Engineer in Manchester, UK 🇬🇧.
 -    🎓 I have completed my Master's in Computer Science - Future Networked Systems from Trinity College, Dublin, Ireland 🇮🇪.
 -    :man_technologist: I have worked as a Full Stack Developer at Samsung R&D Institute - Banglore in Networks 📶 team.
 -    :smiley: I have completed my bachelor's in Computer Science 🎓 from NIT Raipur, India 🇮🇳.
@@ -46,13 +47,7 @@
 
 <img align="left" src="https://img.icons8.com/fluent/30/000000/new-resume-template.png"/> **Get my [Résumé](https://github.com/Shritesh99/Shritesh99/blob/master/Resume/resume.pdf)**
 
-<img align="left" src="https://images.ctfassets.net/eh05n0xjhplz/6Wls4SGGBULMgJOIeIDpqd/c5ec53671e64a01d42213fb5d1a5fb13/calendly_brand_mark_color.png" height="25" width="25"/> **If you like to connect over a call, here is my [Calendly link](https://calendly.com/rxshri99/networking)**
-
-### Guitar:guitar: & Coding:man_technologist:
-
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=213b3c2mmsqhpxdldinf6ofty&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=213b3c2mmsqhpxdldinf6ofty&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile"/>
-</a>
+<img align="left" src="https://images.ctfassets.net/eh05n0xjhplz/6Wls4SGGBULMgJOIeIDpqd/c5ec53671e64a01d42213fb5d1a5fb13/calendly_brand_mark_color.png" height="25" width="25"/> **If you like to connect over a call, here is my [Calendly link](https://calendly.com/rxshri99/virtual-netwoking)**
 
 ### Fun Fact 🥳:
 
